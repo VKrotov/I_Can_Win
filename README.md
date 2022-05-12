@@ -1,2 +1,2 @@
-# I_Can_Win
+# ICanWin
 task N1
